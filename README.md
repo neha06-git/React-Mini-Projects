@@ -12,10 +12,12 @@ cd my-app
 
 npm start
 
-------------------------------------------------------------------- 1. Hello World App-----------------------------------------------------------------------------------
-Description:
-It is a very basic starter project. First of all, we ensure that Node js install in our system and learn how to initialize a new React App using “create react app” command-line interface. Once the new app is created, we make minor modifications to display “Hello world” text on the page.
+1 -> Create a simple helloworld app in react and using glassmorphism effect in css 
 
-Topic covered:  
-How to setup React and modifying app.js file
+2 -> Create a simple counter app - using useState and hooks
+
+3 -> Create a temperature control app - using useState and hooks
+
+
+
 
